@@ -2,8 +2,10 @@
 
 study deep learning with pytorch, including the following contents:
 
-(1) basic knowledge
+## basic knowledge
+### basic concept
+### autograd
 
-(2) RNN and LSTM model
+## RNN and LSTM model
 
-(3) Attention
+## Attention
