@@ -2,7 +2,7 @@
 
 study deep learning with pytorch, including the following contents:
 
-## 1. basic knowledge
+## 1. Basic
 ### 1.1 basic concept
 ### 1.2 autograd
 
